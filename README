@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2937
+
+This plugin looks for hex codes of the format #ffffff or #fff and toggles a highlight in that color. It is useful for editing colorschemes, and generally any config file dealing with colors.
+
+Only works with the graphical version of vim.
